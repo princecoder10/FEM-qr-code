@@ -1,0 +1,42 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    
+}
+
+#image img{
+    width: 240px;
+    margin-left: 650px;
+    margin-top: 100px;
+    border: 1px solid white;
+    border-width: 20px;
+    border-bottom-width: 160px;
+    border-radius: 15px;
+    }
+    
+#container {
+    margin-top: -170px;
+    margin-left: 680px;
+    font-size: 15px;
+} 
+     
+#advice {
+    font-weight: lighter;
+    color: black;
+    font-size: 13px;
+    margin-left: 670px;
+}
+
+#last{
+    color: black;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+
+#closing {
+    position: fixed;
+    botom: 0;
+    margin-left: 100px;
+    color: red;
+}
+
